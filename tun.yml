@@ -1,0 +1,13 @@
+tunnel:
+  name: utun10
+  mtu: 1500
+  address: 10.0.0.1
+  netmask: 255.255.255.0
+  gateway: 10.0.0.2
+
+socks5:
+  port: 1080
+  address: 77.83.240.4
+  username: 113.255.97.55_0d90c
+  password: Z0l0bi0235
+  udp: true
