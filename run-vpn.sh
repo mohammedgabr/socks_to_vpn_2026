@@ -53,7 +53,11 @@ socks5:
   address: $PROXY_IP
   username: $USER
   password: $PASS
-  udp: true
+  udp: 'udp'
+
+misc:
+  log-level: ${LOG_LEVEL:-warn}
+  udp-read-write-timeout: 60000
 EOF
 
 # Get default gateway

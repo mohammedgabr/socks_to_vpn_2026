@@ -8,6 +8,10 @@ tunnel:
 socks5:
   port: 1080
   address: 77.83.240.4
-  username: 113.255.97.55_0d90c
+  username: admin
   password: Z0l0bi0235
-  udp: true
+  udp: 'udp'
+
+misc:
+  log-level: warn
+  udp-read-write-timeout: 60000
