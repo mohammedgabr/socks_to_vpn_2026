@@ -6,9 +6,9 @@ tunnel:
   gateway: 10.0.0.2
 
 socks5:
-  port: 1080
+  port: 1081
   address: 77.83.240.4
-  username: admin
+  username: 207_113_193_99_any
   password: Z0l0bi0235
   udp: 'udp'
 
