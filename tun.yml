@@ -7,8 +7,8 @@ tunnel:
 
 socks5:
   port: 1081
-  address: 77.83.240.4
-  username: 207_113_193_99_any
+  address: 89.190.156.12
+  username: 103_127_185_36_any
   password: Z0l0bi0235
   udp: 'udp'
 
